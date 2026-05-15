@@ -20,10 +20,7 @@ Actualmente enfocado en proyectos y progresión dentro de 42.
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/jose-car" target="_blank" rel="noreferrer">
-    <img
-      src="https://badge.mediaplus.ma/black/jose-car"
-      alt="42 profile card for jose-car showing level and profile stats"
-    />
+    <img src="https://badge.mediaplus.ma/kettlebells/jose-car" alt="jose-car 42 stats" />
   </a>
 </p>
 
