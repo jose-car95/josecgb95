@@ -13,16 +13,15 @@ Actualmente enfocado en proyectos y progresión dentro de 42.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0891b2,100:22c55e&height=140&section=header&text=42%20Network&fontColor=ffffff&fontSize=34&animation=fadeIn"
-    alt="42 network decorative background"
-    width="100%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=22C55E&center=true&vCenter=true&width=700&height=55&lines=%3E+42+Network+Profile;%3E+C+%7C+Python+%7C+Linux;%3E+Building+clean+and+maintainable+code"
+    alt="animated code style header"
   />
 </p>
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/jose-car" target="_blank" rel="noreferrer">
     <img
-      src="https://badge.mediaplus.ma/darkblue/jose-car"
+      src="https://badge.mediaplus.ma/black/jose-car"
       alt="42 profile card for jose-car showing level and profile stats"
     />
   </a>
