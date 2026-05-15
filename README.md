@@ -27,7 +27,9 @@ Actualmente enfocado en proyectos y progresión dentro de 42.
 ## 🚀 Proyectos Destacados
 
 - [a_maze_ing](https://github.com/jose-car95/a_maze_ing): generador y visualizador de laberintos en Python con arquitectura limpia y enfoque en mantenibilidad.
+
 - [push_swap](https://github.com/jose-car95/push_swap): proyecto en C orientado a estructuras de datos, optimización y control de operaciones.
+
 - [libft](https://github.com/jose-car95/libft): biblioteca base en C para reforzar fundamentos de memoria, strings y utilidades.
 
 ## 🤝 Contacto
